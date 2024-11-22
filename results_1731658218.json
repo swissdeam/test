@@ -1,0 +1,34 @@
+{
+  "date": "2024-11-15 11:10:18",
+  "score": 2,
+  "clicks": [
+    {
+      "timestamp": 1731658192.9177926,
+      "shape_type": "square",
+      "color": "blue",
+      "reaction_time": 1.6591453552246094,
+      "correct": true
+    },
+    {
+      "timestamp": 1731658197.2055695,
+      "shape_type": "square",
+      "color": "blue",
+      "reaction_time": 0.9913382530212402,
+      "correct": true
+    },
+    {
+      "timestamp": 1731658199.5408132,
+      "shape_type": "triangle",
+      "color": "red",
+      "reaction_time": 9.938434362411499,
+      "correct": false
+    },
+    {
+      "timestamp": 1731658211.4517205,
+      "shape_type": "triangle",
+      "color": "blue",
+      "reaction_time": 1.6872446537017822,
+      "correct": false
+    }
+  ]
+}

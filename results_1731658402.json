@@ -1,0 +1,27 @@
+{
+  "date": "2024-11-15 11:13:22",
+  "score": 2,
+  "clicks": [
+    {
+      "timestamp": 1731658382.8229115,
+      "shape_type": "circle",
+      "color": "blue",
+      "reaction_time": 1.4985239505767822,
+      "correct": false
+    },
+    {
+      "timestamp": 1731658389.2501798,
+      "shape_type": "square",
+      "color": "blue",
+      "reaction_time": 6.364160776138306,
+      "correct": true
+    },
+    {
+      "timestamp": 1731658393.6660917,
+      "shape_type": "square",
+      "color": "blue",
+      "reaction_time": 1.877478837966919,
+      "correct": true
+    }
+  ]
+}

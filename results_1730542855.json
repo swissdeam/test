@@ -1,0 +1,41 @@
+{
+  "date": "2024-11-02 13:20:55",
+  "score": 3,
+  "clicks": [
+    {
+      "timestamp": 1730542836.78232,
+      "shape_type": "square",
+      "color": "blue",
+      "reaction_time": 0.8391122817993164,
+      "correct": true
+    },
+    {
+      "timestamp": 1730542840.4254346,
+      "shape_type": "square",
+      "color": "red",
+      "reaction_time": 14.597245454788208,
+      "correct": false
+    },
+    {
+      "timestamp": 1730542845.321957,
+      "shape_type": "square",
+      "color": "blue",
+      "reaction_time": 0.9564306735992432,
+      "correct": true
+    },
+    {
+      "timestamp": 1730542849.3458512,
+      "shape_type": "square",
+      "color": "blue",
+      "reaction_time": 1.0353302955627441,
+      "correct": true
+    },
+    {
+      "timestamp": 1730542851.0014782,
+      "shape_type": "triangle",
+      "color": "yellow",
+      "reaction_time": 7.79258131980896,
+      "correct": false
+    }
+  ]
+}
